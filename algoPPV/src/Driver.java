@@ -1,6 +1,6 @@
 // TP de Plus Proche Voisin pour le probleme de voyageur de commerce
 // les coordonners des villes de berlin en se basant sur le fichier berlin.txt
-// Ce TP est Realiser par binome SAAD TACHRIMANT ET SALMA ER-ROUIDI
+// Ce TP est Realiser par  SAAD TACHRIMANT 
 // MASTER BIG DATA ET CLOUD COMPUTING 2022/2023
 
 
